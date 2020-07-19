@@ -11,5 +11,7 @@ class WebServiceTests {
 	}
 	
 	/* comment added*/
-
+public void test(){
+	
+}
 }
